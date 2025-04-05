@@ -698,5 +698,516 @@
     "album_art": "https://i.scdn.co/image/ab67616d0000b27331541d8f5f3680b5d8894e31",
     "spotify_url": "https://open.spotify.com/track/0doG6pX91gapZrOuwlqNbF",
     "date_added": "2024-12-27T16:52:42Z"
+  },
+  {
+    "title": "SAY GOODBYE",
+    "artist": "Hiroshi Sato",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733d14cca401825c95432eb327",
+    "spotify_url": "https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V",
+    "date_added": "2024-12-26T17:05:03Z"
+  },
+  {
+    "title": "Sandstorm (feat. JID)",
+    "artist": "Mereba, JID",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bb2dcdded318b31909aef025",
+    "spotify_url": "https://open.spotify.com/track/1NlWBpNYAnFT7gMGyC0Y1M",
+    "date_added": "2024-12-25T17:18:14Z"
+  },
+  {
+    "title": "Sometimes",
+    "artist": "Bilal",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27383ddc3a8842b5c8f3550ae13",
+    "spotify_url": "https://open.spotify.com/track/44CoUHnHQfw2T8qAvhIh06",
+    "date_added": "2024-12-24T17:53:29Z"
+  },
+  {
+    "title": "Angel Reflections",
+    "artist": "Garrett, DāM-FunK",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27318f98df36645d68cc9dfad75",
+    "spotify_url": "https://open.spotify.com/track/0E7LXsctAJZ8g2fO0oUZeZ",
+    "date_added": "2024-12-23T18:04:34Z"
+  },
+  {
+    "title": "Timeless (feat. Playboi Carti)",
+    "artist": "The Weeknd, Playboi Carti",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27358cd6595ed970f6862906ab8",
+    "spotify_url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL",
+    "date_added": "2024-12-22T19:20:24Z"
+  },
+  {
+    "title": "30 For 30 (with Kendrick Lamar)",
+    "artist": "SZA, Kendrick Lamar",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+    "spotify_url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO",
+    "date_added": "2024-12-21T16:16:01Z"
+  },
+  {
+    "title": "Do For Love",
+    "artist": "2Pac",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e0ff34ad21955b6f4da9b86",
+    "spotify_url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq",
+    "date_added": "2024-12-20T16:02:46Z"
+  },
+  {
+    "title": "latch",
+    "artist": "MAVI",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c44648dd23f7c74ef638369b",
+    "spotify_url": "https://open.spotify.com/track/0WfsDFQY3t0nDyWF89QKfe",
+    "date_added": "2024-12-19T16:10:08Z"
+  },
+  {
+    "title": "Lethal Weapon",
+    "artist": "MIKE, Tony Seltzer",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27382fa41c0c9cdc16230448d32",
+    "spotify_url": "https://open.spotify.com/track/6dm4Ip02h98f6eko5A647f",
+    "date_added": "2024-12-18T17:32:47Z"
+  },
+  {
+    "title": "Something About Us",
+    "artist": "Daft Punk",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732c25dad9f8fd54652f7ba5df",
+    "spotify_url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91",
+    "date_added": "2024-12-17T16:19:52Z"
+  },
+  {
+    "title": "Elevators (Me & You)",
+    "artist": "Outkast",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+    "spotify_url": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs",
+    "date_added": "2024-12-16T18:25:38Z"
+  },
+  {
+    "title": "Seven Mile (feat. Moodymann)",
+    "artist": "Louie Vega, Moodymann",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27309285ab4c5bec3ba2aa0631b",
+    "spotify_url": "https://open.spotify.com/track/1jMbm1k7yVRHF2eztf779d",
+    "date_added": "2024-12-15T18:00:14Z"
+  },
+  {
+    "title": "Own2",
+    "artist": "April + VISTA",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735ff7bf1f7b1cc7bfac89b2f1",
+    "spotify_url": "https://open.spotify.com/track/5yeLepyINbTDBadOF56V7i",
+    "date_added": "2024-12-14T18:02:16Z"
+  },
+  {
+    "title": "VOL 8 ITEM 125",
+    "artist": "HOMESHAKE",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738a5c40f9f5dbe325e5f905e6",
+    "spotify_url": "https://open.spotify.com/track/4dYBEhswnf4PGTJGPjc5K3",
+    "date_added": "2024-12-13T23:18:47Z"
+  },
+  {
+    "title": "Glo-Fi (feat. Ravyn Lenae)",
+    "artist": "Smino, Ravyn Lenae",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273570dd710066cd9859c78f38a",
+    "spotify_url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra",
+    "date_added": "2024-12-12T14:09:49Z"
+  },
+  {
+    "title": "Please Set Me At Ease",
+    "artist": "Bobbi Humphrey",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a2a5dce99d3a27cb116e524d",
+    "spotify_url": "https://open.spotify.com/track/5emxS2ghZWuPnRFOe10vdq",
+    "date_added": "2024-12-11T13:57:33Z"
+  },
+  {
+    "title": "Red Room",
+    "artist": "Hiatus Kaiyote",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da81bffabbcac771ccff4e99",
+    "spotify_url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X",
+    "date_added": "2024-12-10T16:22:59Z"
+  },
+  {
+    "title": "luther (with sza)",
+    "artist": "Kendrick Lamar, SZA",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+    "spotify_url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ",
+    "date_added": "2024-12-09T14:10:23Z"
+  },
+  {
+    "title": "FIYA FIYA!",
+    "artist": "JELEEL!",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739b4b8852cea2fac0a6e681c7",
+    "spotify_url": "https://open.spotify.com/track/5opGQYkDivuOyf11N7BdoV",
+    "date_added": "2024-12-08T18:03:04Z"
+  },
+  {
+    "title": "Nothing Can Come Between Us",
+    "artist": "Sade",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+    "spotify_url": "https://open.spotify.com/track/0qU806xTLhuZ5kCrex2x4r",
+    "date_added": "2024-12-07T23:40:25Z"
+  },
+  {
+    "title": "Sweet November",
+    "artist": "SZA",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27332f1a3721efb2ddfb91b9c82",
+    "spotify_url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc",
+    "date_added": "2024-12-06T19:23:10Z"
+  },
+  {
+    "title": "The Thief That Stole My Sad Days [Ya Blessin Me]",
+    "artist": "Moodymann",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273acdc6c8b134d4528937c4565",
+    "spotify_url": "https://open.spotify.com/track/6dx9zgPprV8mPU09Betp7R",
+    "date_added": "2024-12-05T15:08:31Z"
+  },
+  {
+    "title": "Thank You Lord",
+    "artist": "Bibleway",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27368050b8893b71983212d8790",
+    "spotify_url": "https://open.spotify.com/track/0XDYeT4HuerqoLUbd9mn9U",
+    "date_added": "2024-12-04T13:12:46Z"
+  },
+  {
+    "title": "Stressed Out",
+    "artist": "Babyface",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738c7f1fd466a12306c147b92e",
+    "spotify_url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW",
+    "date_added": "2024-12-03T14:04:44Z"
+  },
+  {
+    "title": "Happy Survival",
+    "artist": "Eddie Okwedy",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f55f13c9bc80ef9d21cde878",
+    "spotify_url": "https://open.spotify.com/track/6yfc7Q0n9HZ7lGigHS5Obg",
+    "date_added": "2024-12-02T13:44:24Z"
+  },
+  {
+    "title": "Happy Survival (feat. Khruangbin)",
+    "artist": "Childish Gambino, Khruangbin",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27305c9a49574cc249f1c5405ab",
+    "spotify_url": "https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la",
+    "date_added": "2024-12-02T13:44:30Z"
+  },
+  {
+    "title": "Hard Boiled Babe",
+    "artist": "Lizzy Mercier Descloux",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27320ebb31165b3e2e4ec0ae792",
+    "spotify_url": "https://open.spotify.com/track/4QkGBkjGGTN9kUntnZibMK",
+    "date_added": "2024-12-01T05:10:05Z"
+  },
+  {
+    "title": "The Ocean",
+    "artist": "Anchorsong, Bookend",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273987cdaceb66d7d070f875ecc",
+    "spotify_url": "https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO",
+    "date_added": "2024-11-30T16:07:55Z"
+  },
+  {
+    "title": "You're the Only One Watching",
+    "artist": "MIKE",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e3536ad38ae33cd1ec569611",
+    "spotify_url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq",
+    "date_added": "2024-11-29T16:15:54Z"
+  },
+  {
+    "title": "Do The Astral Plane",
+    "artist": "Flying Lotus",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736f0c962b04f02c839726f41f",
+    "spotify_url": "https://open.spotify.com/track/1TtSn2KTXMZh6iOJJ74cUv",
+    "date_added": "2024-11-29T15:49:20Z"
+  },
+  {
+    "title": "Family Business",
+    "artist": "Kanye West",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+    "spotify_url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116",
+    "date_added": "2024-11-28T18:25:56Z"
+  },
+  {
+    "title": "A Peace Of Light",
+    "artist": "The Roots, Amber Coffman, Deradoorian, Haley Dekle",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735f306aa63a7bb18e7bf9152b",
+    "spotify_url": "https://open.spotify.com/track/2rByGzndD0TKPWDXOdF2hg",
+    "date_added": "2024-11-27T16:00:36Z"
+  },
+  {
+    "title": "Heard 'Em Say",
+    "artist": "Kanye West, Adam Levine",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+    "spotify_url": "https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF",
+    "date_added": "2024-11-26T16:52:39Z"
+  },
+  {
+    "title": "A Message For the DJ - Jimpster Red Light Remix",
+    "artist": "Delano Smith, Diamondancer, Jimpster",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27384ccdf6843341509e10b8ffa",
+    "spotify_url": "https://open.spotify.com/track/6IpWhdNOksYp84IaGFhS77",
+    "date_added": "2024-11-25T21:00:58Z"
+  },
+  {
+    "title": "Melt",
+    "artist": "H-Fusion",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273076713a868946579b21c5153",
+    "spotify_url": "https://open.spotify.com/track/2W1a2grytCJ2hgjqHL2fiS",
+    "date_added": "2024-11-25T21:00:54Z"
+  },
+  {
+    "title": "Adam Rock Dissed!!",
+    "artist": "Dego, Kaidi",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739f459f7efc0b75a0a1ee45d4",
+    "spotify_url": "https://open.spotify.com/track/39PKs1JscBVDkoQ7W9QNfn",
+    "date_added": "2024-11-25T21:00:39Z"
+  },
+  {
+    "title": "Level Up (Chi of da Sun)",
+    "artist": "BBBwithluv",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732268cad53668e49059813124",
+    "spotify_url": "https://open.spotify.com/track/5uWmAdSXe0yDShKjIpY0K6",
+    "date_added": "2024-11-25T21:00:30Z"
+  },
+  {
+    "title": "Jump",
+    "artist": "N.E.R.D, Benji Madden, Joel Madden",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738d0fa8db33069b60b65ab9a6",
+    "spotify_url": "https://open.spotify.com/track/1kuWAMTptKNgeXI3OTWTat",
+    "date_added": "2024-11-25T21:00:19Z"
+  },
+  {
+    "title": "Tell Your Friends",
+    "artist": "The Weeknd",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+    "spotify_url": "https://open.spotify.com/track/1mhVXWduD8ReDwusfaHNwU",
+    "date_added": "2024-11-25T21:00:05Z"
+  },
+  {
+    "title": "Free",
+    "artist": "Deniece Williams",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27374b19df83af952f4cf0627bb",
+    "spotify_url": "https://open.spotify.com/track/5pANOgOr3fv1DxyxULU7Mh",
+    "date_added": "2024-11-25T20:59:49Z"
+  },
+  {
+    "title": "Dr. Carter",
+    "artist": "Lil Wayne",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb",
+    "spotify_url": "https://open.spotify.com/track/3QjQ9c1ooHiJDCqrKGC9fK",
+    "date_added": "2024-11-25T20:59:55Z"
+  },
+  {
+    "title": "Dance Alone",
+    "artist": "Theo Parrish",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27309eec4775b6257a44614548b",
+    "spotify_url": "https://open.spotify.com/track/5uJLPyUE67QnbmMmODRTGe",
+    "date_added": "2024-11-25T20:59:39Z"
+  },
+  {
+    "title": "If You Want Me to Stay",
+    "artist": "Sly & The Family Stone",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730b1804895a3ce499c4212bca",
+    "spotify_url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x",
+    "date_added": "2024-11-25T20:59:33Z"
+  },
+  {
+    "title": "An Afternoon's Delight",
+    "artist": "Marcellus Pittman",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27339fad189dc883c33a5946095",
+    "spotify_url": "https://open.spotify.com/track/7knmJnoS4eRD2l8cF0ttsu",
+    "date_added": "2024-11-25T20:59:25Z"
+  },
+  {
+    "title": "Loose",
+    "artist": "Daniel Caesar",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037",
+    "spotify_url": "https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX",
+    "date_added": "2024-11-25T20:59:10Z"
+  },
+  {
+    "title": "Spanish Joint",
+    "artist": "D'Angelo",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+    "spotify_url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE",
+    "date_added": "2024-11-25T20:58:53Z"
+  },
+  {
+    "title": "Snake Charm",
+    "artist": "MIKE",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273640dcdba6913efcb8ef1afcd",
+    "spotify_url": "https://open.spotify.com/track/1ppCyBlqMuGXhjKHNbZ9vZ",
+    "date_added": "2024-11-25T20:59:01Z"
+  },
+  {
+    "title": "Signal - feat. Jadasea & MIKE",
+    "artist": "redLee, Jadasea, MIKE",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c6f723fd0e9d8acfadff1351",
+    "spotify_url": "https://open.spotify.com/track/1iJ9o7uwlNHMmJmQ4HymaN",
+    "date_added": "2024-11-25T20:58:46Z"
+  },
+  {
+    "title": "Sweet",
+    "artist": "Orion Sun",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273301370e7494f1bdf4ca2afde",
+    "spotify_url": "https://open.spotify.com/track/4loQPdrZajkHuZTI0Qrhx1",
+    "date_added": "2024-11-25T20:58:33Z"
+  },
+  {
+    "title": "Test Your Patience",
+    "artist": "Anysia Kym",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ee00049769a8627c82133124",
+    "spotify_url": "https://open.spotify.com/track/5eSQ88xhfxCW5jKDEks3Q2",
+    "date_added": "2024-11-25T20:58:25Z"
+  },
+  {
+    "title": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+    "artist": "Beyoncé, Kendrick Lamar",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27378643be90cd7c5ec75675855",
+    "spotify_url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE",
+    "date_added": "2024-11-25T20:58:15Z"
+  },
+  {
+    "title": "Many Lives, Many Teachers",
+    "artist": "Caine Casket",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27341b112c4f963abde4e81fc2c",
+    "spotify_url": "https://open.spotify.com/track/2aOw6PWTkPEqIi2xfyRD19",
+    "date_added": "2024-11-25T20:58:05Z"
+  },
+  {
+    "title": "Beige",
+    "artist": "Terrace Martin, Arin Ray, Elena Pinderhughes",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27313c7b5a02687028035b24453",
+    "spotify_url": "https://open.spotify.com/track/3dvRD7tnKF9Kxocks07jue",
+    "date_added": "2024-11-25T20:57:53Z"
+  },
+  {
+    "title": "Trust",
+    "artist": "Vegyn, Matt Maltese",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273713972bc8bb25ef21c39d448",
+    "spotify_url": "https://open.spotify.com/track/714P7sk3F4zrETNUPNIL35",
+    "date_added": "2025-01-22T23:20:22Z"
+  },
+  {
+    "title": "soundgood",
+    "artist": "B. Cool-Aid, Pink Siifu, Ahwlee, Liv.e, Jimetta Rose, V.C.R",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273483b9e0ae01460a274fd73cd",
+    "spotify_url": "https://open.spotify.com/track/798CdilHgi0FdJmhWH4Hqv",
+    "date_added": "2024-11-25T20:57:48Z"
+  },
+  {
+    "title": "Be Easy",
+    "artist": "Odeal, brazy",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273378c8d841034f2f8b9654316",
+    "spotify_url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB",
+    "date_added": "2024-11-25T20:57:40Z"
+  },
+  {
+    "title": "sweeeet",
+    "artist": "Amaarae",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e9e49363f12901722a22d25",
+    "spotify_url": "https://open.spotify.com/track/2JYkxci5sPATaiojzWfCnQ",
+    "date_added": "2024-11-25T20:57:31Z"
+  },
+  {
+    "title": "I'd Rather Go Blind",
+    "artist": "Etta James",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9",
+    "spotify_url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL",
+    "date_added": "2024-11-25T20:57:22Z"
+  },
+  {
+    "title": "Awkward",
+    "artist": "Tyler, The Creator",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27322007a4aa8a55fe7b1de5632",
+    "spotify_url": "https://open.spotify.com/track/6c7l5gpEyCNGr86jsWneGy",
+    "date_added": "2024-11-25T20:57:09Z"
+  },
+  {
+    "title": "Hey Jane",
+    "artist": "Tyler, The Creator",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+    "spotify_url": "https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn",
+    "date_added": "2024-11-25T20:57:02Z"
+  },
+  {
+    "title": "born with power",
+    "artist": "duendita",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734977a6a09d8800183ccc9634",
+    "spotify_url": "https://open.spotify.com/track/5r4SYNrmYccS12HT9psaxc",
+    "date_added": "2024-11-25T20:56:55Z"
+  },
+  {
+    "title": "SPANK!",
+    "artist": "HiTech",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a77810d085749963c2516774",
+    "spotify_url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu",
+    "date_added": "2024-11-25T20:56:45Z"
+  },
+  {
+    "title": "One Too Many Times",
+    "artist": "Jordan Ward, Joony",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27395d677fb1ced27235562cdb0",
+    "spotify_url": "https://open.spotify.com/track/1UcbPy3MrLPE0wU9PYqX54",
+    "date_added": "2024-11-25T20:56:35Z"
+  },
+  {
+    "title": "Another Day",
+    "artist": "Soul Saver",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731b395309de56b1c4ae7b6ebb",
+    "spotify_url": "https://open.spotify.com/track/2Psrh4CNi6HbIwf8w4u0Zx",
+    "date_added": "2024-11-25T20:56:26Z"
+  },
+  {
+    "title": "Tom Toms",
+    "artist": "Karriem Riggins",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27352f6ac08e4dd68fb06caf0dc",
+    "spotify_url": "https://open.spotify.com/track/2M91QIsygnIGyVDI3pTxbt",
+    "date_added": "2024-11-25T20:56:20Z"
+  },
+  {
+    "title": "Once I Been Gone",
+    "artist": "Theo Parrish, Maurissa Rose",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bd4caefa6a1f1d386655837d",
+    "spotify_url": "https://open.spotify.com/track/5FTNoAvoP1dLOnvL8TtvFY",
+    "date_added": "2024-11-25T20:56:08Z"
+  },
+  {
+    "title": "Noid",
+    "artist": "Tyler, The Creator",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273dc620428d6bbc305cd43c19b",
+    "spotify_url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5",
+    "date_added": "2024-11-25T20:55:59Z"
+  },
+  {
+    "title": "Again",
+    "artist": "alici",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27366c06aeaba4f8dd974f98df2",
+    "spotify_url": "https://open.spotify.com/track/5N08xBg12aSJwathk50PJE",
+    "date_added": "2024-11-25T20:55:47Z"
+  },
+  {
+    "title": "Straight Forward",
+    "artist": "Nascent, Jordan Ward",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273cd28757359639c47bd66cde1",
+    "spotify_url": "https://open.spotify.com/track/7yXqEHH4Dpmr9rfLAnQ9Ys",
+    "date_added": "2024-11-25T20:55:36Z"
+  },
+  {
+    "title": "Rebels",
+    "artist": "Little Dragon, April + VISTA",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27385d5d135e3a0be866f74a791",
+    "spotify_url": "https://open.spotify.com/track/0c7mteZ9COkeUiMLFcs0wy",
+    "date_added": "2024-11-25T20:55:27Z"
+  },
+  {
+    "title": "New Lyfe",
+    "artist": "Caine Casket",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733052ff97d2a914e69dd28dcb",
+    "spotify_url": "https://open.spotify.com/track/6LjLV3Rzgdv8YKPbBXNF0n",
+    "date_added": "2024-11-25T20:55:14Z"
+  },
+  {
+    "title": "Side X",
+    "artist": "Standing On The Corner",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27311f0d300afc35ad03a88d380",
+    "spotify_url": "https://open.spotify.com/track/5exRKM7qDhzYmHIUM9OJPt",
+    "date_added": "2024-11-25T20:55:03Z"
+  },
+  {
+    "title": "God Is a Circle",
+    "artist": "Yves Tumor",
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273cec31736d4e88743ce5bb414",
+    "spotify_url": "https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg",
+    "date_added": "2024-11-25T20:53:47Z"
   }
 ]
