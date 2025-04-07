@@ -1,0 +1,14 @@
+{
+  "name": "playlist-updater",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "update-playlist.js",
+  "scripts": {
+    "start": "node update-playlist.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "@octokit/rest": "^20.0.0",
+    "dotenv": "^16.0.3"
+  }
+}
